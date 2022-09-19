@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd5da153-f73b-4de1-9768-d9ddc8f09305": {
+      "ProjectGuid": "cd5da153-f73b-4de1-9768-d9ddc8f09305",
+      "DisplayName": "04. Fast Food",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

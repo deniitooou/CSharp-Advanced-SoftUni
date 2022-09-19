@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7562d9d9-1dae-4fb1-aba3-f6de065f524c": {
+      "ProjectGuid": "7562d9d9-1dae-4fb1-aba3-f6de065f524c",
+      "DisplayName": "01. Basic Stack Operations",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

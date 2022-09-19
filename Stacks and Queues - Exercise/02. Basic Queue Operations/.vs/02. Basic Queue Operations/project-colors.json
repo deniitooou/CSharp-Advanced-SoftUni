@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "512e40d3-da02-499b-99d1-f0986740cab9": {
+      "ProjectGuid": "512e40d3-da02-499b-99d1-f0986740cab9",
+      "DisplayName": "02. Basic Queue Operations",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
