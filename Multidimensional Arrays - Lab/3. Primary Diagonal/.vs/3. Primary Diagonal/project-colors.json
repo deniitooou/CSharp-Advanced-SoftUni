@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4ed40d5-c5de-4b2f-b0ed-809219b587a1": {
+      "ProjectGuid": "e4ed40d5-c5de-4b2f-b0ed-809219b587a1",
+      "DisplayName": "3. Primary Diagonal",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

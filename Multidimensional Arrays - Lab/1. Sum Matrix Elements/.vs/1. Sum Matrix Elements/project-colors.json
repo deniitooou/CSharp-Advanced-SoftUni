@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "006c69d1-074b-4a8b-a6e0-468ebbc0276b": {
+      "ProjectGuid": "006c69d1-074b-4a8b-a6e0-468ebbc0276b",
+      "DisplayName": "1. Sum Matrix Elements",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
