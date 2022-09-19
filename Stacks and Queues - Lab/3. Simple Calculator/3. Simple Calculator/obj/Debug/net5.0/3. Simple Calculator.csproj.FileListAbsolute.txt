@@ -1,0 +1,16 @@
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.exe
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.deps.json
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.runtimeconfig.json
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.dll
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\bin\Debug\net5.0\ref\3. Simple Calculator.dll
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.pdb
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.AssemblyInfo.cs
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.dll
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\ref\3. Simple Calculator.dll
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.pdb
+C:\Users\User 1\source\repos\CSharp-Advanced\Stacks and Queues - Lab\3. Simple Calculator\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.genruntimeconfig.cache

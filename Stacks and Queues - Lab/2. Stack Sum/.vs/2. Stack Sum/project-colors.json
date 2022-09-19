@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4dbe4b6d-0620-465d-bcc3-808fe2f9d013": {
+      "ProjectGuid": "4dbe4b6d-0620-465d-bcc3-808fe2f9d013",
+      "DisplayName": "2. Stack Sum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

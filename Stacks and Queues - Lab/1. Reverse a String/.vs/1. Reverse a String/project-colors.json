@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06f2e1f7-dc8a-4ca1-a2c2-965623351f8a": {
+      "ProjectGuid": "06f2e1f7-dc8a-4ca1-a2c2-965623351f8a",
+      "DisplayName": "1. Reverse a String",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

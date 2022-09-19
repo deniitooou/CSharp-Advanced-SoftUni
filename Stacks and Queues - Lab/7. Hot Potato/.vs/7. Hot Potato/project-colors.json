@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d775c49-9bcf-46c8-95be-6516f6fd7585": {
+      "ProjectGuid": "2d775c49-9bcf-46c8-95be-6516f6fd7585",
+      "DisplayName": "7. Hot Potato",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
